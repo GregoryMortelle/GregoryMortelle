@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋  I'm Seprovvs !</h1>
+<h1 align="center">Hey 👋  I'm Grégory Mortelle !</h1>
 
 ###
 
