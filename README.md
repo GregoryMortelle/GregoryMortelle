@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently staff at 19 Brussels | 42 networks</p>
+<p align="left">Currently volunteer staff at 19 Brussels | 42 networks</p>
 
 ###
 
