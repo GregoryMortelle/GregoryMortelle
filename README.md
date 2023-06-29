@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C and Python<br>🎯 Goals: Work as a developer or in cybersecurity</p>
+<p align="left">📚 I'm currently learning C and Python<br>🎯 Goals: Work as a developer or in a cybersecurity</p>
 
 ###
 
